@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * Введение
-*   Музыкальный Проигрыватель
+* [Музыкальный Проигрыватель](musicplayer/muzikalnii_proigrivatel.md)
 
