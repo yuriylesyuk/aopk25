@@ -8,5 +8,5 @@
 * [Паскаль](paskal.md)
 * [Forth](rp/forth.md)
 * [Multi-Edit](rp/multi-edit.md)
-* DBase
+* [DBase](rp/dbase.md)
 
