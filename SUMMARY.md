@@ -10,4 +10,5 @@
 * [Multi-Edit](rp/multi-edit.md)
 * [DBase II](rp/dbase.md)
 * [Salt/Telix](rp/salttelix.md)
+* Редактор Панорам
 
