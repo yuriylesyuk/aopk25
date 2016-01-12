@@ -7,5 +7,5 @@
 * [Sokoban на разных языках](sokoban/introduction.md)
 * [Паскаль](paskal.md)
 * [Forth](rp/forth.md)
-* Multi-Edit
+* [Multi-Edit](rp/multi-edit.md)
 
