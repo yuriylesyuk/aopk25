@@ -11,5 +11,5 @@
 * [DBase II](rp/dbase.md)
 * [Salt/Telix](rp/salttelix.md)
 * [Редактор Панорам](panningeditor/redaktor_panoram.md)
-* Parallax Scrolling
+* [Parallax Scrolling](ps/parallax_scrolling.md)
 
