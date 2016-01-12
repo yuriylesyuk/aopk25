@@ -6,5 +6,5 @@
    * Введение. Технология взлома
 * [Sokoban на разных языках](sokoban/introduction.md)
 * [Паскаль](paskal.md)
-* Forth
+* [Forth](rp/forth.md)
 
